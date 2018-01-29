@@ -1,3 +1,3 @@
-import App from './app/index';
+import Home from './app/index';
 
-export default App;
+export default Home;
