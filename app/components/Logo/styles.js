@@ -8,6 +8,7 @@ export default EStyleSheet.create({
     alignItems: 'center',
   },
   innerContainer: {
+    padding: 30,
     alignItems: 'center',
     justifyContent: 'center',
   },
