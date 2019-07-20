@@ -1,4 +1,8 @@
 # A React Native Currency Converter App
+
+**IMPORTANT: dependencies for this repositories are not kept updated and may contain security vulnerabilities.**
+
+
 An example of a well-structured project using React Native.
 
 Includes:
